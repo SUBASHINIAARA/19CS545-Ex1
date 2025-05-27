@@ -1,12 +1,13 @@
 # 19CS545-Ex1 - Create a Repository in GitHub
 
-#AIM:
+# AIM:
 To create a Repository
 
-##Procedure:
+# Procedure:
 
 
-##Output:
+# Output:
 
-#Result:
+# Result:
+
 Thus a Repository has been created successfully.
